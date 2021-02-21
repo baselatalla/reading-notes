@@ -42,4 +42,4 @@ And there something to keep in mind that:
 * Linux is an extensionless, system Files can have any extension they like or none at all.
 * Linux is case sensitive, Beware of silly typos1
 
-~~The world is flat.~~ 
+

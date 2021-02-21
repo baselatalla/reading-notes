@@ -18,15 +18,15 @@
  
  2. ### Emphasis:
  
-'*This text will be italic*' = *This text will be italic*
+/*This text will be italic/* = *This text will be italic*
 
-'_This will also be italic_' = _This will also be italic_
+/_This will also be italic/_ = _This will also be italic_
 
-'**This text will be bold**' =**This text will be bold**
+/**This text will be bold/** =**This text will be bold/**
 
-'__This will also be bold__' = __This will also be bold__
+/__This will also be bold/__ = __This will also be bold/__
 
-'_You **can** combine them_' = _You **can** combine_ 
+/_You **can** combine them/_ = _You **can** combine_ 
 
 3. ### Lists:
 

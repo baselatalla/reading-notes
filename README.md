@@ -6,7 +6,7 @@ And what allows us to write and manage a texts is a software called a  "Text Edi
 There are so many text editors for many purposes as well, some of it comes with the operation
 System {Notpad, MS Word, ..} and others can be download from the internet {Brackets, Coda 2,..}.
 
-Coding using normal text editors are difficult so they came up with editors called code editors 
+Coding using normal text editors are difficult so they came up with editors called code editors.
 Which is may be a stand-alone program or part of an integrated development environment (IDE). 
 They make writing and reading the source code easier by differentiating the elements and routines
 so programmers can more easily look at their code.
@@ -40,6 +40,7 @@ And there something to keep in mind that:
 
 * Everything is a file under, Linux Even directories.
 * Linux is an extensionless, system Files can have any extension they like or none at all.
-* Linux is case sensitive, Beware of silly typos1
+* Linux is case sensitive, 'Beware of silly typos1'
 
 
+# new title

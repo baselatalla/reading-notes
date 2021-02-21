@@ -13,8 +13,7 @@
   
 ##  How to keep yourself in a growth mindset :
 
-1.  [x]  Acknowledge and embrace imperfections.
-  - Hiding from your weaknesses means you’ll never overcome them. 
+
 3.  [x]  View challenges as opportunities
 4.  [x]  Replace the word “failing” with the word “learning.”
 5.  [x]  Portray criticism as positive.

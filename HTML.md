@@ -2,26 +2,19 @@
 
 ## PROCESS & DESIGN
 
-    In the process of creating a new web site there are many aspects to look after which come up as a questions
-  that put the headlines and help to organize the process.Starting with (*** How is the audienes? ***) what is
-  there age range, gender, location, income, hours on web, etc... which that help to understand who your 
-  target audience is. Then *** Why to visit *** you need to consider why they are coming and your content and 
-  design should be influenced by the goals and motivations of your users. *** what the vistors need *** First 
-  you want to create a list of reasons why people would be coming to your site, then you know who is coming to 
-  your site and why they are coming, so now you need to work out what information they need in order to achieve
-  their goals quickly and effectively.
+   In the process of creating a new web site there are many aspects to look after which come up as a questions that put the headlines and help to organize the process.Starting with *How is the audienes?*  what is there age range, gender, location, income, hours on web, etc... which that help to understand who your target audience is. Then *Why to visit * you need to consider why they are coming and your content and design should be influenced by the goals and motivations of your users. * what the vistors need * First you want to create a list of reasons why people would be coming to your site, then you know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
 
 
-  * ###Site Maps
+### Site Maps
 
    The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site
   map and it will show how those pages can be grouped. that help you decide what information should go on each 
   page, you can use a technique called card sorting.
   
-  * ###WireFrames
+  ### WireFrames
 
-     A wireframe is a simple sketch of the key information that needs to go on each page of a
-  site. It shows the hierarchy of the information and how much space it might require.
+   A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might
+ require.
 
   Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 You can differentiate between pieces of information using size, color, and style. You can use grouping and

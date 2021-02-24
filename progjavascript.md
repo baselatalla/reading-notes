@@ -80,13 +80,40 @@ Expressions rely on things called operators; they allow programmers to create a 
 There is just one string operator: the+ symbol. It is used to join the strings on either side of it, There are many occasions where you may need to join two or
 more strings to create a single value. Programmers call the process of joining together two or more strings to create one new string concatenation.
 
- example 1                                        example 2     
-var costl = '7';                            var  number = 12                                   
-var cost2 = '9 ' ;                          var  street = 'Ivy road '                             
-var total = costl + cost2;                  var  add = number + street                           
+ example 1                                                  example 2     
+var costl = '7';                                        var  number = 12   ;                                
+var cost2 = '9 ' ;                                      var  street = 'Ivy road '  ;                           
+var total = costl + cost2;                              var  add = number + street ;                          
                                                                          
-You would end up with a string               You would end up with a string
-   saying '79'.                                   saying '12Ivy Road'                                                               
+You would end up with a string                       You would end up with a string
+   saying '79'.                                           saying '12Ivy Road' .                                                              
+
+
+
+
+## WHAT IS A FUNCTION?
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the 
+function (rather than repeating the same set of statements). Grouping together the statements that are required to answer a question or perform a task helps organize your code. Furthermore, the statements in a function are not always executed when a page loads, so functions also offer a way to store the steps Ineeded to achieve a task. The script can then ask the function, to perform all of those steps as and when they are required.
+
+
+
+## DECLARING A FUNCTION
+ To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. This is known as a function declaration.
+This function is very basic (it only contains one statement), but it illustrates how to write a function. Most functions that you will see or write are likely to consist
+of more statements.The point to remember is that functions store the code required to perform a specific task, and that the script can ask the function to perform that task whenever needed.
+
+## CALLING A FUNCTION
+ Having declared the function, you can then execute all of the statements between its curly braces with just one line of code. This is known as calling the function
+
+
+
+
+
+
+
+
+
 
 
 

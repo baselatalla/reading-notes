@@ -1,18 +1,69 @@
+# Reading Notes
 
- ![profailphoto](https://instagram.famm6-1.fna.fbcdn.net/v/t51.2885-19/s150x150/117142622_322566105791993_8921775102440510341_n.jpg?_nc_ht=instagram.famm6-1.fna.fbcdn.net&_nc_ohc=ir6ZZwjYoh4AX-tWKam&tp=1&oh=e305124da8efc98765ea11262036466f&oe=605A5A8F)
-# BASEL ATALLA
-
-* ***Mechatronics Engineer & A Future Software Developer*** 
-* ***Amman/Jordan***
-* ***Tel : +962789066013***
-
-
+Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 
 
 ## My notes:
 
-1. [Markdown](https://baselatalla.github.io/reading-notes/markdown)
-2. [GitHub pages](https://baselatalla.github.io/reading-notes/github-pages)
-3. [Git](https://baselatalla.github.io/reading-notes/git)
-4. [Growth Mindset](https://baselatalla.github.io/reading-notes/growth-mindset)
-5. [ACP](https://baselatalla.github.io/reading-notes/ACP)
+## Code 102 - Intro to Software Development.
+
+|   | Read Name | Read page |
+| --- | --- | --- |
+|  1 |  Markdown | [Link](https://baselatalla.github.io/reading-notes/102/markdown) |
+|  2 |  GitHub pages | [Link](https://baselatalla.github.io/reading-notes/102/github-pages) |
+|  3 |  Git |[Link](https://baselatalla.github.io/reading-notes/102/git)|
+|  4 |  Growth Mindset|[Link](https://baselatalla.github.io/reading-notes/102/growth-mindset)|
+|  5 | Operators & Loops|[Link](https://baselatalla.github.io/reading-notes/102/Operators&Loops)|
+|  6 | prog javascript|[Link](https://baselatalla.github.io/reading-notes/102/progjavascript)|
+|  7 | Text-Editor|[Link](https://baselatalla.github.io/reading-notes/102/Text-Editor)|
+|  8 | javascript|[Link](https://baselatalla.github.io/reading-notes/102/javascript-46-49)|
+|  9 | HTML|[Link](https://baselatalla.github.io/reading-notes/102/HTML)|
+|  10 | CSS|[Link](https://baselatalla.github.io/reading-notes/102/css)|
+|  11 | How computer work|[Link](https://baselatalla.github.io/reading-notes/102/howcomputerwork)|
+|  12 | ACP|[Link](https://baselatalla.github.io/102/reading-notes/ACP)|
+
+
+
+## Code 201 - Foundations of Software Development.
+
+
+| No. | Read Name | Read page |
+| --- | --- | --- |
+| 1 	|  class-01   |  [link](https://baselatalla.github.io/reading-notes/201/class-01)	|
+| 2     |  class-02   |  [link](https://baselatalla.github.io/reading-notes/201/class-02)	|  	
+| 3     |  class-03   |  [link](https://baselatalla.github.io/reading-notes/201/class-03)	|  	
+| 4     |  class-04   |  [link](https://baselatalla.github.io/reading-notes/201/class-04)	|  	
+| 5     |  class-05   |  [link](https://baselatalla.github.io/reading-notes/201/class-05)	|  	
+| 6     |  class-06   |  [link](https://baselatalla.github.io/reading-notes/201/class-06)	|  	
+| 7     |  class-07   |  [link](https://baselatalla.github.io/reading-notes/201/class-07)	|  	
+| 8     |  class-08   |  [link](https://baselatalla.github.io/reading-notes/201/class-08)  |  	
+| 9 	|  class-09   |  [link](https://baselatalla.github.io/reading-notes/201/class-09)	|
+| 10 	|  class-10   |  [link](https://baselatalla.github.io/reading-notes/201/class-10)	|
+| 11 	|  class-11   |  [link](https://baselatalla.github.io/reading-notes/201/class-11)	|  	
+| 12 	|  class-12   |  [link](https://baselatalla.github.io/reading-notes/201/class-12)  |  
+| 13 	|  class-13   |  [link](https://baselatalla.github.io/reading-notes/201/class-13)	|  	
+| 14 	|  class-14a  |  [link](https://baselatalla.github.io/reading-notes/201/class-13a)	|  	
+| 15 	|  class-14b  |  [link](https://baselatalla.github.io/reading-notes/201/class-14b)	|  	
+
+                 
+## Code 301 - Intermediate Software Development.
+
+
+| No. | Read Name | Read page |
+| --- | --- | --- |
+| 1 	|  Read-01   |  [link](https://baselatalla.github.io/reading-notes/301)	|
+| 2     |  Read-02   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 3     |  Read-03   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 4     |  Read-04   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 5     |  Read-05   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 6     |  Read-06   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 7     |  Read-07   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 8     |  Read-08   |  [link](https://baselatalla.github.io/reading-notes/301) |  	
+| 9 	|  Read-09   |  [link](https://baselatalla.github.io/reading-notes/301)	|
+| 10 	|  Read-10   |  [link](https://baselatalla.github.io/reading-notes/301)	|
+| 11 	|  Read-11   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/301) |  
+| 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 14 	|  Read-14a |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 15	|  Read-14b |  [link](https://baselatalla.github.io/reading-notes/301)	|  
+| 16 	|  Read-15  |  [link](https://baselatalla.github.io/reading-notes/301)	|  	

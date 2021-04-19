@@ -43,18 +43,20 @@ $( "div.myClass, ul.people" );
 $( "a.external:first" );
 $( "tr:odd" );
  
-// Select all input-like elements in a form (more on this below).
+ Select all input-like elements in a form (more on this below).
 $( "#myForm :input" );
 $( "div:visible" );
  
-// All except the first three divs.
+ All except the first three divs.
 $( "div:gt(2)" );
  
-// All currently animated divs.
+All currently animated divs.
 $( "div:animated" );
 
 
 ## DOING THINGS WITH YOUR SELECTION
+![1](https://user-images.githubusercontent.com/55560502/115252125-dbebcd80-a133-11eb-898e-2add209a2bcf.png)
+
 
 The • htm 1 () and • text () methods both retrieve and update the content
 of elements. This page will focus on how to retrieve element content. To
@@ -62,6 +64,7 @@ learn how to update element content.
 
 ### UPDATING ELEMENTS
 
+![2](https://user-images.githubusercontent.com/55560502/115252158-e5753580-a133-11eb-9e10-26d2ec31e941.png)
 Here are four methods that update the content of all elements in a jQuery selection
 
 . html()

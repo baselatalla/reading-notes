@@ -52,7 +52,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | No. | Read Name | Read page |
 | --- | --- | --- |
 | 1 	|  Read-01   |  [link](https://baselatalla.github.io/reading-notes/301/Read-01)	|
-| 2     |  Read-02   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 2     |  Read-02   |  [link](https://baselatalla.github.io/reading-notes/301/Read-01)	|  	
 | 3     |  Read-03   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
 | 4     |  Read-04   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
 | 5     |  Read-05   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	

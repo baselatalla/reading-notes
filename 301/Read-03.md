@@ -20,11 +20,12 @@ or with NPM:
 $ npm install mustache --save
 
 Configure mustache-express in your server.js/app.js/index.js file:
-11111111
+![1](https://user-images.githubusercontent.com/55560502/115328201-e1c7ca00-a198-11eb-89fa-3c91203a4bff.png)
+
 
 Create a views folder and add some html view templates (e.g. hello.html):
-2222222
-3333333
+![2](https://user-images.githubusercontent.com/55560502/115328221-eab89b80-a198-11eb-8183-e54e940332f0.png)
+![3](https://user-images.githubusercontent.com/55560502/115328232-f015e600-a198-11eb-8a45-9e40033d62df.png)
 
 Then in the router configuration, use res.render(TEMPLATE_NAME, JSON_DATA). Example:
 
@@ -41,7 +42,7 @@ res.render('hello', nameObject)
 
 Final output:
 
-4444
+![4](https://user-images.githubusercontent.com/55560502/115328243-f6a45d80-a198-11eb-89b3-95f460c59b26.png)
 
 
 # A Complete Guide to Flexbox
@@ -59,7 +60,7 @@ Since flexbox is a whole module and not a single property, it involves a lot of 
 
 If “regular” layout is based on both block and inline flow directions, the flex layout is based on “flex-flow directions”. Please have a look at this figure from the specification, explaining the main idea behind the flex layout.
 
-5555
+![5](https://user-images.githubusercontent.com/55560502/115328263-fe640200-a198-11eb-9432-722956d9f3ac.png)
 
 ## Flexbox properties
 

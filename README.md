@@ -54,7 +54,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 1 	|  Read-01   |  [link](https://baselatalla.github.io/reading-notes/301/Read-01)	|
 | 2     |  Read-02   |  [link](https://baselatalla.github.io/reading-notes/301/Read-02)	|  	
 | 3     |  Read-03   |  [link](https://baselatalla.github.io/reading-notes/301/Read-03)	|  	
-| 4     |  Read-04   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 4     |  Read-04   |  [link](https://baselatalla.github.io/reading-notes/301/Read-04)	|  	
 | 5     |  Read-05   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
 | 6     |  Read-06   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
 | 7     |  Read-07   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	

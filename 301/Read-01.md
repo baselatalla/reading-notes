@@ -129,7 +129,7 @@ One of the more bewildering things about working with floats is how they can aff
 Floats often get beat on for being fragile. The majority of this fragility comes from IE 6 and the slew of float-related bugs it has. As more and more designers are dropping support for IE 6, you may not care, but for the folks that do care here is a quick rundown.
 
 1. Pushdown is a symptom of an element inside a floated item being wider than the float itself (typically an image)
-2. Double Margin Bug – Another thing to remember when dealing with IE 6 is that if you apply a margin in the same direction as the float, it will double the margin.
+2. Double Margin Bug – Another thinjg to remember when dealing with IE 6 is that if you apply a margin in the same direction as the float, it will double the margin.
 3.The 3px Jog is when text that is up next to a floated element is mysteriously kicked away by 3px like a weird forcefield around the float.
 4.In IE 7, the Bottom Margin Bug is when if a floated parent has floated children inside it, bottom margin on those children is ignored by the parent. 
 

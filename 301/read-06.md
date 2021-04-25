@@ -48,7 +48,7 @@ As can be seen on this compatibility table, Node has excellent support for ECMAS
 
 To illustrate the point, here’s a second program that makes use of several modern JavaScript features, such as tagged template literals, object destructuring and Array.prototype.flatMap():
 
->>>>>1
+![Screenshot_1](https://user-images.githubusercontent.com/55560502/115976333-a6047a00-a575-11eb-87f7-e3d7bdd0d952.png)
 
 Save this code to a file called index.js and run it from your terminal using the command node index.js. You should see Brendan Eich is the creator of JavaScript! ┌(˘⌣˘)ʃ output to the terminal.
 
@@ -85,7 +85,7 @@ This will create and auto-populate a package.json file in the same folder. Next,
 
 Create a file named test.js and add the following:
 
->>>>>>2
+![Screenshot_2](https://user-images.githubusercontent.com/55560502/115976334-abfa5b00-a575-11eb-9650-2b5ab745cd93.png)
 
 Finally, run the script using node test.js. You should see [ 1, 2, 3 ] output to the terminal.
 
@@ -143,7 +143,7 @@ Some developers also dislike the callback-based style of coding that JavaScript 
 
 Let’s have a quick look at a “Hello, World!” example HTTP server:
 
->>>>>4
+![Screenshot_4](https://user-images.githubusercontent.com/55560502/115976339-b1f03c00-a575-11eb-8f09-15258455e927.png)
 
 
 To run this, copy the code into a file named hello-world-server.js and run it using node hello-world-server.js. Open up a browser and navigate to http://localhost:3000 to see “Hello, World!” displayed in the browser.

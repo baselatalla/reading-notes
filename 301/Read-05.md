@@ -7,7 +7,8 @@ We will use Node.js for our project. Node.js is an open source, cross-platform r
 
 First of all, we need to create a JavaScript file. Let's name it server.js:
 
->>>>>1
+![1](https://user-images.githubusercontent.com/55560502/115961208-0ec00800-a51e-11eb-8ab9-08a672caa04c.png)
+
 
 It's simple. It's tiny. But it's a server! Let's make sure it's working. Run at your terminal:
 
@@ -26,7 +27,8 @@ Well, it is a server! And we have evidence. What you got here is your own client
 
 But you should notice something, before we go further. Let's look more closely at our first Node server. This is an example of how Node provides you with non-blocking and event-driven behavior. Let me explain:
 
->>>>>2
+![2](https://user-images.githubusercontent.com/55560502/115961212-167fac80-a51e-11eb-9f45-84baad8a774f.png)
+
 
 
 This code performs a request for some resource. When the response comes back, an anonymous function is called. It contains the argument data, which is the data received from that request.
@@ -146,7 +148,7 @@ That's all we need to run our simple web server. Now it's time to create some co
 
 We need to create the index.html file. It will determine our blog's exterior. Here's the code:
 
->>>>>3
+![3](https://user-images.githubusercontent.com/55560502/115961220-1da6ba80-a51e-11eb-9455-d2e96aab3ac4.png)
 
 
 Here you can see how the main page looks like: 

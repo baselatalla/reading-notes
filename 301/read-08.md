@@ -16,7 +16,7 @@ Before learning the SQL syntax, it's important to have a model for what a relati
 
 For example, if the Department of Motor Vehicles had a database, you might find a table containing all the known vehicles that people in the state are driving. This table might need to store the model name, type, number of wheels, and number of doors of each vehicle for example.
 
->>>>>>3
+![Screenshot_3](https://user-images.githubusercontent.com/55560502/116148948-3e237000-a6ea-11eb-932c-2876df6b52b7.png)
 
 # SQL Lesson 1: SELECT queries 101
 
@@ -26,36 +26,37 @@ As we mentioned in the introduction, you can think of a table in SQL as a type o
 
 And given a table of data, the most basic query we could write would be one that selects for a couple columns (properties) of the table with all the rows (instances).
 
->>>>>>>>>> 1
+![Screenshot_1](https://user-images.githubusercontent.com/55560502/116148958-42e82400-a6ea-11eb-86ae-27516aac6ffd.png)
 
 The result of this query will be a two-dimensional set of rows and columns, effectively a copy of the table, but only with the columns that we requested.
 
 If we want to retrieve absolutely all the columns of data from a table, we can then use the asterisk (*) shorthand in place of listing all the column names individually.
 
->>>>>>>>> 2
+![Screenshot_2](https://user-images.githubusercontent.com/55560502/116148983-48456e80-a6ea-11eb-84ec-44b812fe3fbf.png)
 
 # SQL Lesson 2: Queries with constraints (Pt. 1)
 
 Now we know how to select for specific columns of data from a table, but if you had a table with a hundred million rows of data, reading through all the rows would be inefficient and perhaps even impossible.
 
 In order to filter certain results from being returned, we need to use a WHERE clause in the query. The clause is applied to each row of data by checking specific column values to determine whether it should be included in the results or not.
->>>>>>4
+
+![Screenshot_4](https://user-images.githubusercontent.com/55560502/116148993-4d0a2280-a6ea-11eb-9dcb-35aa6a2b8fcf.png)
 
 More complex clauses can be constructed by joining numerous AND or OR logical keywords (ie. num_wheels >= 4 AND doors <= 2). And below are some useful operators that you can use for numerical data (ie. integer or floating point):
 
->>>>>>5
+![Screenshot_5](https://user-images.githubusercontent.com/55560502/116149015-51ced680-a6ea-11eb-9aca-c0868e06a209.png)
 
 # SQL Lesson 3: Queries with constraints (Pt. 2)
 
 When writing WHERE clauses with columns containing text data, SQL supports a number of useful operators to do things like case-insensitive string comparison and wildcard pattern matching. We show a few common text-data specific operators below:
 
->>>>>6
+![Screenshot_6](https://user-images.githubusercontent.com/55560502/116149033-55625d80-a6ea-11eb-87b4-632deb9a3151.png)
 
 # SQL Lesson 4: Filtering and sorting Query results
 
 Even though the data in a database may be unique, the results of any particular query may not be – take our Movies table for example, many different movies can be released the same year. In such cases, SQL provides a convenient way to discard rows that have a duplicate column value by using the DISTINCT keyword.
 
->>>>>7
+![Screenshot_7](https://user-images.githubusercontent.com/55560502/116149069-5eebc580-a6ea-11eb-89ad-d92201ffc849.png)
 
 When an ORDER BY clause is specified, each row is sorted alpha-numerically based on the specified column's value. In some databases, you can also specify a collation to better sort data containing international text.
 
@@ -63,7 +64,7 @@ When an ORDER BY clause is specified, each row is sorted alpha-numerically based
 Another clause which is commonly used with the ORDER BY clause are the LIMIT and OFFSET clauses, which are a useful optimization to indicate to the database the subset of the results you care about.
 The LIMIT will reduce the number of rows to return, and the optional OFFSET will specify where to begin counting the number rows from.
 
->>>>8
+![Screenshot_8](https://user-images.githubusercontent.com/55560502/116149087-63b07980-a6ea-11eb-8944-38110bd92259.png)
 
 # SQL Lesson 13: Inserting rows
 
@@ -79,7 +80,8 @@ When inserting data into a database, we need to use an INSERT statement, which d
 # SQL Lesson 14: Updating rows
 
 In addition to adding new data, a common task is to update existing data, which can be done using an UPDATE statement. Similar to the INSERT statement, you have to specify exactly which table, columns, and rows to update. In addition, the data you are updating has to match the data type of the columns in the table schema.
->>>>>9
+
+![Screenshot_9](https://user-images.githubusercontent.com/55560502/116149105-690dc400-a6ea-11eb-99dc-0af0ad6d8cdb.png)
 
 ## Taking care
 
@@ -109,6 +111,7 @@ Like the UPDATE statement from last lesson, it's recommended that you run the co
 When you have new entities and relationships to store in your database, you can create a new database table using the CREATE TABLE statement.
 
 Create table statement w/ optional table constraint and default value
+
 `CREATE TABLE IF NOT EXISTS mytable (`
     `column DataType TableConstraint DEFAULT default_value,`
    ` another_column DataType TableConstraint DEFAULT default_value,`
@@ -124,14 +127,15 @@ If there already exists a table with the same name, the SQL implementation will 
 Table data types
 Different databases support different data types, but the common types support numeric, string, and other miscellaneous things like dates, booleans, or even binary data. Here are some examples that you might use in real code.
 
->>>>>10
+
+![Screenshot_10](https://user-images.githubusercontent.com/55560502/116149144-732fc280-a6ea-11eb-9024-cd735e3a0c2b.png)
 
 
 ## Table constraints
 
 We aren't going to dive too deep into table constraints in this lesson, but each column can have additional table constraints on it which limit what values can be inserted into that column. This is not a comprehensive list, but will show a few common constraints that you might find useful.
 
->>>>11
+![Screenshot_11](https://user-images.githubusercontent.com/55560502/116149176-7dea5780-a6ea-11eb-8f41-6f781fed67a9.png)
 
 # SQL Lesson 17: Altering tables
 
@@ -141,20 +145,20 @@ As your data changes over time, SQL provides a way for you to update your corres
 
 The syntax for adding a new column is similar to the syntax when creating new rows in the CREATE TABLE statement. You need to specify the data type of the column along with any potential table constraints and default values to be applied to both existing and new rows. In some databases like MySQL, you can even specify where to insert the new column using the FIRST or AFTER clauses, though this is not a standard feature.
 
->>>>>12
+![Screenshot_12](https://user-images.githubusercontent.com/55560502/116149185-80e54800-a6ea-11eb-87fe-60a1ec218ad7.png)
 
 ## Removing columns
 
 Dropping columns is as easy as specifying the column to drop, however, some databases (including SQLite) don't support this feature. Instead you may have to create a new table and migrate the data over.
 
->>>>13
+![Screenshot_13](https://user-images.githubusercontent.com/55560502/116149210-880c5600-a6ea-11eb-8fe0-da9fd1dd18c7.png)
 
 
 ## Renaming the table
 
 If you need to rename the table itself, you can also do that using the RENAME TO clause of the statement.
 
->>>14
+![Screenshot_14](https://user-images.githubusercontent.com/55560502/116149221-8b9fdd00-a6ea-11eb-926e-6503a3ba8800.png)
 
 
 

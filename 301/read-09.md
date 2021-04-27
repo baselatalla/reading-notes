@@ -50,7 +50,7 @@ We're going to refactor some pieces of code based off real examples that I've co
 We're an URL-shortening website, like TinyURL. We accept a long URL and return a short URL that forwards visitors to the long URL. We have two functions.
 
 
->>>>1
+![Screenshot_1](https://user-images.githubusercontent.com/55560502/116311582-11d42600-a7b4-11eb-854c-829c0276895f.png)
 
 Problem: what happens if getLong is called with a short URL that isn't in the store? Nothing is explicitly returned so undefined will be returned. Since we're not sure how we're going to handle that, let's be explicit and throw an error so that problems can be spotted during development.
 
@@ -60,15 +60,14 @@ Currently, each URL object is stored in an array. We'll visualize this as a row 
 
 The answer is to use some form of hash function, which Maps and Sets use under the surface. A hash function is used to map a given key to a location in the hash table. Below, this happens when we place our short URL into the store in makeShort and when we get it back out in getLong. Depending on how you're measuring run time, the result is that on average we only need to check one bucket — no matter how many total buckets there are!
 
->>>>>>>2
+![Screenshot_2](https://user-images.githubusercontent.com/55560502/116311592-16004380-a7b4-11eb-8024-723808459b40.png)
 
 For those examples, we assumed that the random function wouldn't clash. 'Cloning TinyURL' is a common system design question and a very interesting one at that. What if the random function does clash? It's easy to tack on addendums about scaling and redundancy.
 
 # Scenario 2
 
 We're a social media website where user URLs are generated randomly. Instead of random gibberish, we're going to use the friendly-words package that the Glitch team works on. They use this to generate the random names for your recently created projects!
-
->>>>>3
+![Screenshot_3](https://user-images.githubusercontent.com/55560502/116311604-18629d80-a7b4-11eb-88c7-d53c7eb14169.png)
 
 It's often said that a function should do one thing. Here, createUser does one thing .. kinda. It creates a user. However, if we're thinking ahead to the future, there's a good chance (if our business is successful) that this function is going to grow very large indeed. So let's start early by breaking it up.
 
@@ -79,7 +78,6 @@ You may have also noticed that there is some duplicated logic in our random func
 Here are some straightforward to implement methods that can lead to easier to read code. There are no absolutes when it comes to clean code — there's always an edge case!
 
 Return early from functions:
->>>>>>4
+![Screenshot_4](https://user-images.githubusercontent.com/55560502/116311616-1c8ebb00-a7b4-11eb-945d-b7b09bcdff18.png)
 
-
->>>>5
+![Screenshot_5](https://user-images.githubusercontent.com/55560502/116311627-20224200-a7b4-11eb-989c-b60af504eba3.png)

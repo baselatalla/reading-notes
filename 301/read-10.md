@@ -9,7 +9,7 @@ A call stack is a mechanism for an interpreter (like the JavaScript interpreter 
 
 ## Example 
 
->>>>>>1
+![Screenshot1](https://user-images.githubusercontent.com/55560502/116461398-e06d6000-a870-11eb-81b5-81f8a11f0b29.png)
 
 The code above would be executed like this:
 

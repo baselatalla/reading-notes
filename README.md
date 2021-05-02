@@ -62,11 +62,11 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 9 	|  Read-09   |  [link](https://baselatalla.github.io/reading-notes/301/read-09)	|
 | 10 	|  Read-10   |  [link](https://baselatalla.github.io/reading-notes/301/read-10)	|
 | 11 	|  Read-11   |  [link](https://baselatalla.github.io/reading-notes/301/read-11)	|  	
-| 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/301) |  
-| 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
-| 14 	|  Read-14a |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
-| 15	|  Read-14b |  [link](https://baselatalla.github.io/reading-notes/301)	|  
-| 16 	|  Read-15  |  [link](https://baselatalla.github.io/reading-notes/301)	|  	
+| 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/301/read-12) |  
+| 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/301/read-13)	|  	
+| 14 	|  Read-14a |  [link](https://baselatalla.github.io/reading-notes/301/read-14a)	|  	
+| 15	|  Read-14b |  [link](https://baselatalla.github.io/reading-notes/301/read-14b)	|  
+| 16 	|  Read-15  |  [link](https://baselatalla.github.io/reading-notes/301/read-15)	|  	
 
 
 

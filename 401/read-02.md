@@ -31,7 +31,7 @@ There are some details to pay attention. The first one is the test name. The tes
 
 The test file name should follow the same name of module name. For instance, if our module is gender.py, our test name should be test_gender.py. It’s ideal to separate the tests folder from production code (the implementation) and to have something like this:
 
-
+```
 mymodule/
  — module.py
  — another_folder/
@@ -40,7 +40,7 @@ tests/
  — test_module.py
  — another_folder/
  — — test_another_module.py 
-
+```
 Other thing to care about is the structure. A convention widely used is the AAA: Arrange, Act and Assert.
 
 Arrange: you need to organize the data needed to execute that piece of code (input);
@@ -52,7 +52,11 @@ Assert: after executing the code, you will check if the result (output) is the s
 Now you can execute the tests. I suggest the lib pytest to do it. But you are free to choose anything you like.
 Yay! We have our first test. It’s beautiful but it fails. And that is awesome!
 
+
+
+
 ## The Cycle
+
 
 I hope at this time you didn’t give up of this text because this is an example of an important thing about TDD: the cycle.
 The cycle is made by three steps:
@@ -60,8 +64,11 @@ The cycle is made by three steps:
 The cycle is made by three steps:
 
 🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
+
 ✅ Write the feature and make the test pass! (you can dance after that)
-🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
+
+🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy) 
+
 Using baby steps you can go through this cycle every time you add or modify a new feature in your code.
 
 And talking about feature… let’s do the cycle!
@@ -82,6 +89,7 @@ Let us consider a problem that a programmer have to determine the sum of first n
 
 approach(1) – Simply adding one by one
 
+```
 f(n) = 1 + 2 + 3 +……..+ n
 
 but there is another mathematical approach of representing this,
@@ -91,12 +99,14 @@ pproach(2) – Recursive adding
 f(n) = 1                  n=1
 
 f(n) = n + f(n-1)    n>1
+```
 
 There is a simple difference between the approach (1) and approach(2) and that is in approach(2) the function “ f( ) ” itself is being called inside the function, so this phenomenon is named as recursion and the function containing recursion is called recursive function, at the end this is a great tool in the hand of the programmers to code some problems in a lot easier and efficient way.
 
 What is base condition in recursion? 
 In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems. 
 
+```
 int fact(int n)
 {
     if (n < = 1) // base case
@@ -104,7 +114,7 @@ int fact(int n)
     else    
         return n*fact(n-1);    
 }
-
+```
 
 n the above example, base case for n < = 1 is defined and larger value of number can be solved by converting to smaller one till base case is reached.
 

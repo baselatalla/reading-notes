@@ -73,11 +73,12 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 ## Code 401 - Advanced Software Development
 
 | No. | Read Name | Read page |
-| --- | --- | --- |
-| 1 	|  Read-01   |  [link](https://baselatalla.github.io/reading-notes/401/read-01)	|
-| 2     |  Read-02   |  [link](https://baselatalla.github.io/reading-notes/401/read-02)	|  	
-| 3     |  Read-03   |  [link](https://baselatalla.github.io/reading-notes/401/read-03)	|  	
-| 4     |  Read-04   |  [link](https://baselatalla.github.io/reading-notes/401/read-04)	|  	
+| ---   |     ---    | --- |
+| 1 	|  Big O Notation / Python Names and Values   |  [link](https://baselatalla.github.io/reading-notes/401/read-01)	|
+| 2     |   Recursion /In Tests We Trust — TDD with Python
+  |  [link](https://baselatalla.github.io/reading-notes/401/read-02)	|  	
+| 3     |  Reading and Writing Files in Python / Python Exceptions: An Introduction   |  [link](https://baselatalla.github.io/reading-notes/401/read-03)	|  	
+| 4     |   Classes and Objects / Python Testing with pytest: Fixtures and Coverage / Thinking Recursively in Python  |  [link](https://baselatalla.github.io/reading-notes/401/read-04)	|  	
 | 5     |  Read-05   |  [link](https://baselatalla.github.io/reading-notes/401/read-05)	|  	
 | 6     |  Read-06   |  [link](https://baselatalla.github.io/reading-notes/401/read-06)	|  	
 | 7     |  Read-07   |  [link](https://baselatalla.github.io/reading-notes/401/read-07)	|  	
@@ -87,7 +88,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 11 	|  Read-11   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|  	
 | 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	
-| 14 	|  Read-14a |  [link](https://baselatalla.github.io/reading-notes/401/read-14a)	|  	
-| 15	|  Read-14b |  [link](https://baselatalla.github.io/reading-notes/401/read-14b)	|  
-| 16 	|  Read-15  |  [link](https://baselatalla.github.io/reading-notes/401/read-15)	|  
+| 14 	|  Read-14a  |  [link](https://baselatalla.github.io/reading-notes/401/read-14a)| 
+| 15	|  Read-14b  |  [link](https://baselatalla.github.io/reading-notes/401/read-14b)|  
+| 16 	|  Read-15   |  [link](https://baselatalla.github.io/reading-notes/401/read-15)	|  
 

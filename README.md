@@ -78,7 +78,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 2     |   Recursion /In Tests We Trust — TDD with Python|  [link](https://baselatalla.github.io/reading-notes/401/read-02)	|  	
 | 3     |  Reading and Writing Files in Python / Python Exceptions: An Introduction   |  [link](https://baselatalla.github.io/reading-notes/401/read-03)	|  	
 | 4     |   Classes and Objects / Python Testing with pytest: Fixtures and Coverage / Thinking Recursively in Python  |  [link](https://baselatalla.github.io/reading-notes/401/read-04)	|  	
-| 5     |  Read-05   |  [link](https://baselatalla.github.io/reading-notes/401/read-05)	|  	
+| 5     |  Linked Lists   |  [link](https://baselatalla.github.io/reading-notes/401/read-05)	|  	
 | 6     |  Read-06   |  [link](https://baselatalla.github.io/reading-notes/401/read-06)	|  	
 | 7     |  Read-07   |  [link](https://baselatalla.github.io/reading-notes/401/read-07)	|  	
 | 8     |  Read-08   |  [link](https://baselatalla.github.io/reading-notes/401/read-08) |  	

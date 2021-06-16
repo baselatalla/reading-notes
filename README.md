@@ -83,7 +83,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 7     |  Game of Greed 2   |  [link](https://baselatalla.github.io/reading-notes/401/read-07)	|  	
 | 8     |  Game of Greed 3   |  [link](https://baselatalla.github.io/reading-notes/401/read-08) |  	
 | 9 	|  Game of Greed 4   |  [link](https://baselatalla.github.io/reading-notes/401/read-09)	|
-| 10 	|  Read-10   |  [link](https://baselatalla.github.io/reading-notes/401/read-10)	|
+| 10 	|  Implementation: Stacks and Queues   |  [link](https://baselatalla.github.io/reading-notes/401/read-10)	|
 | 11 	|  Read-11   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|  	
 | 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	

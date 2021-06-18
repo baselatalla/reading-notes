@@ -7,9 +7,13 @@
 ### Stacks Operations
 
 - ``push()`` − Pushing (storing) an element on the stack.
+
 - ``pop()`` − Removing (accessing) an element from the stack.
+
 - ``peek()`` − get the top data element of the stack, without removing it.
+
 - ``isFull()`` − check if stack is full.
+
 - ``isEmpty()`` − check if stack is empty or not.
   
 #### FILO
@@ -27,8 +31,11 @@
 ### Queues operations
 
 - **Enqueue:** a new element in a queue is inserted at the back of the queue.
+
 - **Dequeue:** a elements that are removed from the queue.
+
 - **Front:** get the top data element of the queue, without removing it.
+
 - **isEmpty:** check if queue is empty or not.
 
 ### FIFO

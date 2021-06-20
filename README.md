@@ -85,7 +85,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 9 	|  Game of Greed 4   |  [link](https://baselatalla.github.io/reading-notes/401/read-09)	|
 | 10 	|  Implementation: Stacks and Queues   |  [link](https://baselatalla.github.io/reading-notes/401/read-10)	|
 | 11 	|  NumPy & jupyter lab   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|  	
-| 12 	|  Read-12   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
+| 12 	|  What is Pandas   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  Read-13   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	
 | 14 	|  Read-14a  |  [link](https://baselatalla.github.io/reading-notes/401/read-14a)|  	
 | 15	|  Read-14b  |  [link](https://baselatalla.github.io/reading-notes/401/read-14b)|  

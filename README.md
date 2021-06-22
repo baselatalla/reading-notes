@@ -87,7 +87,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 11 	|  NumPy & jupyter lab   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|  	
 | 12 	|  What is Pandas   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  How to Run Linear Regression in Python   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	
-| 14 	|  Read-14a  |  [link](https://baselatalla.github.io/reading-notes/401/read-14a)|  	
+| 14 	|  Data Visualization  |  [link](https://baselatalla.github.io/reading-notes/401/read-14a)|  	
 | 15	|  Read-14b  |  [link](https://baselatalla.github.io/reading-notes/401/read-14b)|  
 | 16 	|  Read-15   |  [link](https://baselatalla.github.io/reading-notes/401/read-15)	|  
 

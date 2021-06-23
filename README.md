@@ -88,6 +88,6 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 12 	|  What is Pandas   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  How to Run Linear Regression in Python   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	
 | 14 	|  Data Visualization  |  [link](https://baselatalla.github.io/reading-notes/401/read-14)|  	
-| 15	|  Read-15  |  [link](https://baselatalla.github.io/reading-notes/401/read-15)|  
+| 15	|  Tree  |  [link](https://baselatalla.github.io/reading-notes/401/read-15)|  
 | 16 	|  Read-16  |  [link](https://baselatalla.github.io/reading-notes/401/read-16)	|  
 

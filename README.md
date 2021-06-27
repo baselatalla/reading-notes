@@ -90,7 +90,7 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 14 	|  Data Visualization  |  [link](https://baselatalla.github.io/reading-notes/401/read-14)|  	
 | 15	|  Tree  |  [link](https://baselatalla.github.io/reading-notes/401/read-15)|  
 | 16 	|  Data Science and Machine Learning  |  [link](https://baselatalla.github.io/reading-notes/401/read-16)|  
-| 17 	|   |  [link](https://baselatalla.github.io/reading-notes/401/read-17)|  
+| 17 	| Web Scraping |  [link](https://baselatalla.github.io/reading-notes/401/read-17)|  
 | 18 	|   |  [link](https://baselatalla.github.io/reading-notes/401/read-18)|  
 | 19 	|   |  [link](https://baselatalla.github.io/reading-notes/401/read-19)|  
 

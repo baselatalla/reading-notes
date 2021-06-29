@@ -84,13 +84,14 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 8     |  Game of Greed 3   |  [link](https://baselatalla.github.io/reading-notes/401/read-08) |  	
 | 9 	|  Game of Greed 4   |  [link](https://baselatalla.github.io/reading-notes/401/read-09)	|
 | 10 	|  Implementation: Stacks and Queues   |  [link](https://baselatalla.github.io/reading-notes/401/read-10)	|
-| 11 	|  NumPy & jupyter lab   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|  	
+| 11 	|  NumPy & jupyter lab   |  [link](https://baselatalla.github.io/reading-notes/401/read-11)	|
 | 12 	|  What is Pandas   |  [link](https://baselatalla.github.io/reading-notes/401/read-12) |  
 | 13 	|  How to Run Linear Regression in Python   |  [link](https://baselatalla.github.io/reading-notes/401/read-13)	|  	
 | 14 	|  Data Visualization  |  [link](https://baselatalla.github.io/reading-notes/401/read-14)|  	
 | 15	|  Tree  |  [link](https://baselatalla.github.io/reading-notes/401/read-15)|  
 | 16 	|  Data Science and Machine Learning  |  [link](https://baselatalla.github.io/reading-notes/401/read-16)|  
 | 17 	| Web Scraping |  [link](https://baselatalla.github.io/reading-notes/401/read-17)|  
-| 18 	|  Cryptography |  [link](https://baselatalla.github.io/reading-notes/401/read-18)|  
-| 19 	|   |  [link](https://baselatalla.github.io/reading-notes/401/read-19)|  
+| 18  |  Cryptography |  [link](https://baselatalla.github.io/reading-notes/401/read-18)|  
+| 19  |  Automation |  [link](https://baselatalla.github.io/reading-notes/401/read-19)|  
+
 

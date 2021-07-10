@@ -164,7 +164,7 @@ def homepage(request):
     return render(request, 'homepage.html', {'message': message})
 ```
 
-```py
+```
 
 {% load i18n %}
 <html>

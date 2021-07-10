@@ -93,5 +93,5 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 17 	| Web Scraping |  [link](https://baselatalla.github.io/reading-notes/401/read-17)|  
 | 18  |  Cryptography |  [link](https://baselatalla.github.io/reading-notes/401/read-18)|  
 | 19  |  Automation |  [link](https://baselatalla.github.io/reading-notes/401/read-19)|  
-
+| 20 |  Django |  [link](https://baselatalla.github.io/reading-notes/401/read-20)| 
 

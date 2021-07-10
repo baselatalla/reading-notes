@@ -166,7 +166,7 @@ def homepage(request):
 
 ```
 
-{% load i18n %}
+
 <html>
   <head>
     <title>{% trans 'Homepage - Hall of Fame' %}</title>

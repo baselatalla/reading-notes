@@ -97,5 +97,6 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 21 |  Django Models |  [link](https://baselatalla.github.io/reading-notes/401/read-21)|
 | 22 |  Django Forms |  [link](https://baselatalla.github.io/reading-notes/401/read-22)|  
 | 23 |  Django Custom User |  [link](https://baselatalla.github.io/reading-notes/401/read-23)| 
-| 23 |  Hashtables |  [link](https://baselatalla.github.io/reading-notes/401/read-24)|
+| 24 |  Hashtables |  [link](https://baselatalla.github.io/reading-notes/401/read-24)|
+| 25 |  Django REST Framework & Docker |  [link](https://baselatalla.github.io/reading-notes/401/read-25)|
 

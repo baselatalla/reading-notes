@@ -101,4 +101,5 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 25 |  Django REST Framework & Docker |  [link](https://baselatalla.github.io/reading-notes/401/read-25)|
 | 26 | Permissions  |  [link](https://baselatalla.github.io/reading-notes/401/read-32)|
 | 27 | JSON Web Token |  [link](https://baselatalla.github.io/reading-notes/401/read-33)|
+| 28 | Django Settings Best Practices |  [link](https://baselatalla.github.io/reading-notes/401/read-34)|
 

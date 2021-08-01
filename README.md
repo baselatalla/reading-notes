@@ -104,3 +104,4 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 28 | Django Settings Best Practices |  [link](https://baselatalla.github.io/reading-notes/401/read-34)|
 | 29 | Graphs |  [link](https://baselatalla.github.io/reading-notes/401/read-35)|
 | 30 | Whiteboard Advice |  [link](https://baselatalla.github.io/reading-notes/401/read-36)|
+| 31 | React 1 |  [link](https://baselatalla.github.io/reading-notes/401/read-37)|

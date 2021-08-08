@@ -108,3 +108,5 @@ Hi it's Basel Atalla and here where you can find all of my *Reading Notes*.
 | 32 | React 2 |  [link](https://baselatalla.github.io/reading-notes/401/read-38)|
 | 33 | React 3 |  [link](https://baselatalla.github.io/reading-notes/401/read-39)|
 | 34 | React 4 |  [link](https://baselatalla.github.io/reading-notes/401/read-41)|
+| 35 | Pythonisms |  [link](https://baselatalla.github.io/reading-notes/401/read-42)|
+| 36 | Ethics |  [link](https://baselatalla.github.io/reading-notes/401/read-43)|
